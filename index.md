@@ -15,7 +15,7 @@ DaSH is a desktop application which can be used to remotely monitor web applicat
 
 ##	Initial Setup
 
-<img src="https://github.com/{user}/{repo}/assets/images/dash-splash.gif" alt="Drawing" style="width: 300px;"/>
+<img src="/assets/images/dash-splash.gif" class="centered" alt="Drawing" style="width: 300px;"/>
 
 In order to start using DaSH, you must have
 
@@ -56,7 +56,7 @@ In the event that an mGuard/site is removed from the account, you can use the ed
 
 DaSH gives you the ability to customize your sites.  Although DaSH will use the preconfigured site name from the mGuard Secure Cloud Website, DaSH gives you the ability to add some customization.  By clicking the edit button while on the "Sites" page, each site may have an image uploaded to represent itself.
 
-[] image here
+<img src="/assets/images/img upload.gif" class="centered" alt="Drawing" style="width: 600px;"/>
 
 
 ### Changing Layout

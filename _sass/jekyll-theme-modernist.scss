@@ -16,6 +16,12 @@
   background-color:#2ABCA7;
   color:#FAFAFA;
 }
+.centered {
+  position: relative;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%);
+}
 h2 {
   text-align:center;
   padding:18px 0 18px 0;
