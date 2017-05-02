@@ -8,10 +8,13 @@ layout: default
 
 DaSH is a desktop application which can be used to remotely monitor web applications.  DaSH is tightly integrated with the mGuard Secure Cloud which is essential to the application’s operation.  Once configured, DaSH is able to establish a secure VPN connection to visualize devices all around the globe.  It is not only useful for visualizing machines and device operation, but also for maintaining devices in the field such as ethernet switches, routers, and any device with a web based interface.  Using DaSH, you can bookmark your devices and return to them on demand, seamlessly and securely.
 
+***
+
 #### Table of Contents
 * Table of Contents
 {:toc}
 
+***
 
 ##	Initial Setup
 
@@ -38,6 +41,8 @@ In order to start using DaSH, you must have
 
 If this is your first time opening the app, DaSH will present you with the mGuard Secure Cloud website.  Here, you must enter your account information as expected.  After entering your credentials, DaSH will store this login information for future use.  
 <img src="{{ site.github.url }}/assets/images/acc-collection.gif" class="centered" alt="Drawing" style="width: 600px;"/>
+
+After being successfully logged in, the main application window will be opened.
 
 ##	Sites
 
