@@ -14,6 +14,9 @@ DaSH is a desktop application which can be used to remotely monitor web applicat
 
 
 ##	Initial Setup
+
+<img src="{{site.url}}/assets/images/dash-splash.gif" alt="Drawing" style="width: 300px;"/>
+
 In order to start using DaSH, you must have
 
 1. mGuard Secure Cloud account created
