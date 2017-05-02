@@ -15,7 +15,7 @@ DaSH is a desktop application which can be used to remotely monitor web applicat
 
 ##	Initial Setup
 
-<img src="/assets/images/dash-splash.gif" class="centered" alt="Drawing" style="width: 300px;"/>
+<img src="{{ site.github.url }}/assets/images/dash-splash.gif" class="centered" alt="Drawing" style="width: 300px;"/>
 
 In order to start using DaSH, you must have
 
@@ -26,7 +26,7 @@ In order to start using DaSH, you must have
 #### Account
   You can skip this section if this is already completed.  Using the [mGuard Secure Cloud Website](https://us.cloud.mguard.com) directly is recommended for initial setup.  Simply use the sign up dialog to create an account.
 
-![signpup]({{ site.url }}/assets/images/signup.gif)
+![signpup]({{ site.github.url }}/assets/images/signup.gif)
 
 #### mGuard Devices
   After signing up and creating an account, create mGuard configurations.  In DaSH, these are known as "Sites."  This is because the mGuard gives network connectivity to remote locations.  Any device which is connected to the "LAN" connection of the mGuard is known in DaSH as a "Target."
@@ -56,7 +56,7 @@ In the event that an mGuard/site is removed from the account, you can use the ed
 
 DaSH gives you the ability to customize your sites.  Although DaSH will use the preconfigured site name from the mGuard Secure Cloud Website, DaSH gives you the ability to add some customization.  By clicking the edit button while on the "Sites" page, each site may have an image uploaded to represent itself.
 
-<img src="/assets/images/img upload.gif" class="centered" alt="Drawing" style="width: 600px;"/>
+<img src="{{site.github.url}}/assets/images/img upload.gif" class="centered" alt="Drawing" style="width: 600px;"/>
 
 
 ### Changing Layout
