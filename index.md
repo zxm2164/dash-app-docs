@@ -78,7 +78,7 @@ You can customize the layout of your sites as well.  To do this, click the edit 
 
   After establishing a few sites, navigate to the targets page by clicking on a site.  This action starts a VPN tunnel and allows network traffic to travel from your PC to the end network.  Notice that the selected site is shown at the top of the application.   
 
-  [] image
+  <img src="{{site.github.url}}/assets/images/site-target.gif" class="centered" alt="Drawing" style="width: 600px;"/>
 
   Each site may have any number of targets.  Each 'target' represents a web enabled device.  Configure a target by first clicking the edit button.  When in edit mode, click the add button.  Then, use the add target dialog to configure a new web view.  
 
