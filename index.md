@@ -79,7 +79,9 @@ You can customize the layout of your sites as well.  To do this, click the edit 
 
   <img src="{{site.github.url}}/assets/images/site-target.gif" class="centered" alt="Drawing" style="width: 600px;"/>
 
-  Each site may have any number of targets.  Each 'target' represents a web enabled device.  Configure a target by first clicking the edit button.  When in edit mode, click the add button.  Then, use the add target dialog to configure a new web view.  
+  Each site may have any number of targets.  Each 'target' represents a web enabled device.  When a new site is added, DaSH gives you one target to start which is the mGuard webpage.  Using this target, you can change firewall rules and interact with the mGuard device.
+
+  To create a new target, click the edit button.  Now in edit mode, click the add button.  Then, use the add target dialog to configure a new web view.  The URL must be a web based URL.  URL types accepted are web addresses using either http or https.  Also, web addresses can be DNS based addresses such as "http://google.com" and IP address based URL's like "http://192.168.0.1".
 
   When the new target (web view) is created, every time the corresponding site is selected, the web view will be automatically loaded.  In the event that the content cannot be loaded for some reason, the message 'Failed to Load' will be shown on that target.  In this event, check that the target's URL had been configured correctly.  This can be modified by hovering over the target of interest and clicking its edit button.  Simply change the URL of the device and click submit.
 
