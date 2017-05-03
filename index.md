@@ -59,7 +59,6 @@ DaSH will remember these configured sites, and display their status via the conn
 
 In the event that an mGuard/site is removed from the account, you can use the edit button to toggle edit mode, and then use the delete button to remove that site from DaSH.  Please note, you may need to restart the application in order to see the changes take affect.
 
-[] image here
 
 ### Customizing a Site
 
