@@ -1,10 +1,16 @@
+# DaSH Documentation Site
+This documentation repo is for maintaing the public source for DaSH.  It is maintained as a submodule of the development repo
+
+[DaSH Development Repo](https://github.com/PhoenixContactUSA/secure-hmi-dashboard)
+
+This site was developed using the Jekyll "Modernist" theme and is hosted on github pages.  For more information, the modernist theme readme is below.
+
 # The Modernist theme
 
 [![Build Status](https://travis-ci.org/pages-themes/modernist.svg?branch=master)](https://travis-ci.org/pages-themes/modernist) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-modernist.svg)](https://badge.fury.io/rb/jekyll-theme-modernist)
 
 *Modernist is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/modernist), or even [use it today](#usage).*
 
-![Thumbnail of modernist](thumbnail.png)
 
 ## Usage
 
