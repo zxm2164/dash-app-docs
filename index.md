@@ -83,9 +83,13 @@ You can customize the layout of your sites as well.  To do this, click the edit 
 
   To create a new target, click the edit button.  Now in edit mode, click the add button.  Then, use the add target dialog to configure a new web view.  The URL must be a web based URL.  URL types accepted are web addresses using either http or https.  Also, web addresses can be DNS based addresses such as "http://google.com" and IP address based URL's like "http://192.168.0.1".
 
+  <img src="{{site.github.url}}/assets/images/target-add.gif" class="centered" alt="Drawing" style="width: 600px;"/>
+
   When the new target (web view) is created, every time the corresponding site is selected, the web view will be automatically loaded.  In the event that the content cannot be loaded for some reason, the message 'Failed to Load' will be shown on that target.  In this event, check that the target's URL had been configured correctly.  This can be modified by hovering over the target of interest and clicking its edit button.  Simply change the URL of the device and click submit.
 
   If you desire to delete a target, use this target edit button and the delete button to remove it from DaSH's memory.
+
+  <img src="{{site.github.url}}/assets/images/target-delete.gif" class="centered" alt="Drawing" style="width: 600px;"/>
 
 ##	Website
 
